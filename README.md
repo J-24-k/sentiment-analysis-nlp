@@ -48,7 +48,7 @@ python "Sentimental_Analysis using NLP.py"
 
 ---
 
-## Sample Output (Text-Based)
+## Sample Output
 
 ```plaintext
 Training Accuracy: 0.99
