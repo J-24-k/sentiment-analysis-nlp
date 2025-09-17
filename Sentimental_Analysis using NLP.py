@@ -26,7 +26,7 @@ import re
 import os
 
 # Load the data
-data = pd.read_csv('data/amazon_alexa.csv')  # Changed from personal path to GitHub-safe relative path
+data = pd.read_csv('data/amazon_alexa.csv')  # Changed from personal path to GitHub safe path
 data.head()
 print(data.shape)
 
